@@ -1,0 +1,30 @@
+foobar package
+==============
+
+Submodules
+----------
+
+foobar\.cli module
+------------------
+
+.. automodule:: foobar.cli
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+foobar\.foobar module
+---------------------
+
+.. automodule:: foobar.foobar
+    :members:
+    :undoc-members:
+    :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: foobar
+    :members:
+    :undoc-members:
+    :show-inheritance:

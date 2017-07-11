@@ -1,0 +1,7 @@
+foobar
+======
+
+.. toctree::
+   :maxdepth: 4
+
+   foobar
